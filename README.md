@@ -22,7 +22,7 @@ Used Nmap, Snort, and OpenVAS to detect and analyze vulnerabilities; proposed ac
 Built a secure smart door lock simulation with IoT tools in Cooja.
 - **Phishing Awareness Simulation**
 Developed a phishing awareness simulation tool to educate users about the risks and tactics involved in phishing attacks. The project involved creating realistic phishing email scenarios and tracking responses to improve user knowledge and response to phishing attempts.
-[View Project](https://github.com/Ffdffd01/phishingAwarenessSimulation)
+- [View Project](https://github.com/Ffdffd01/phishingAwarenessSimulation)
 
 ---
 
